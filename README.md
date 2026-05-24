@@ -123,8 +123,8 @@ npm run dev
 
 | Provider  | LLM_MODEL                            | Get key at              |
 |-----------|--------------------------------------|-------------------------|
-| Gemini    | `gemini/gemini-2.0-flash`            | aistudio.google.com     |
-| Groq      | `groq/llama-3.3-70b-versatile`       | console.groq.com        |
+| Gemini    | `gemini/gemini-2.5-flash`            | aistudio.google.com     |
+| Groq      | `groq/llama-3.1-8b-instant`       | console.groq.com        |
 | OpenAI    | `openai/gpt-4o`                      | platform.openai.com     |
 | Anthropic | `anthropic/claude-sonnet-4-20250514` | console.anthropic.com   |
 | Ollama    | `ollama/llama3`                      | ollama.com (free/local) |
