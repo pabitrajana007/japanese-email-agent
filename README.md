@@ -81,6 +81,22 @@ japanese-email-agent/
 
 ## Setup
 
+###  Configure environment variables
+ 
+**Backend — create a file at `backend/.env`:**
+ 
+```env
+LLM_MODEL=
+LLM_API_KEY=
+```
+ 
+Fill in both values. For example:
+ 
+```env
+LLM_MODEL=gemini/gemini-2.5-flash
+LLM_API_KEY=AIzaSy...your_key_here
+```
+
 ### Backend
 ```bash
 cd backend
